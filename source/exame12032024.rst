@@ -1,0 +1,7 @@
+exame12032024 module
+====================
+
+.. automodule:: exame12032024
+   :members:
+   :undoc-members:
+   :show-inheritance:
